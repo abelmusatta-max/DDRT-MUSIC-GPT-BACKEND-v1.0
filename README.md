@@ -1,0 +1,2 @@
+# DDRT-MUSIC-GPT-BACKEND-v1.0
+Backend for DDRT MUSIC GPT AI Music Studio
